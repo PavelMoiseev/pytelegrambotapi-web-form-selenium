@@ -52,5 +52,5 @@ pip install -r requirements.txt
 #### Запустите скрипт в следующем файле:
 
 ```bash
-tg_bot.py
+app/__main__.py
 ```

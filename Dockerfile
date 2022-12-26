@@ -11,4 +11,4 @@ COPY . .
 # Установить токен для телеграмм бота
 ENV TOKEN="${TELEGRAM_API_TOKEN}"
 # Команда для запуска при запуске контейнера
-CMD ["python", "./tg_bot.py" ]
+CMD ["python", "app/__main__.py" ]

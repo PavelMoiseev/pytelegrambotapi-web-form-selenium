@@ -1,3 +1,6 @@
 /tg_bot_venv/
-/.env
 /geckodriver.log
+/app/.mypy_cache/
+/app/tg_bot_log.log
+/app/geckodriver.log
+/app/.env
